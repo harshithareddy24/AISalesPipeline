@@ -9,13 +9,13 @@ A lightweight, full-stack Sales Pipeline Management Tool for retail store manage
 
 🛠️ Tech Stack
 Layer	Tech
-Frontend-React + Vite + MUI
-Backend-Node.js + Express
-Database-MongoDB (Mongoose)
-AI Engine- Cohere AI
-Deployment	GitHub + Render (planned)
+Frontend-React + Vite + MUI,
+Backend-Node.js + Express,
+Database-MongoDB (Mongoose),
+AI Engine- Cohere AI,
+Deployment	GitHub + Render (planned).
 
 📦 Installation
 Clone the repo
-git clone https://github.com/harshithareddy24/aisalesline.git
+git clone https://github.com/harshithareddy24/aisalesline.git 
 cd aisalesline
